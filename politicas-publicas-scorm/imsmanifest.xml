@@ -56,34 +56,34 @@
     </organizations>
 
     <resources>
-        <resource identifier="RES-INTRO" type="webcontent" href="index.html" adlcp:scormtype="sco">
+        <resource identifier="RES-INTRO" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/index.html" adlcp:scormtype="sco">
             <file href="index.html"/>
         </resource>
-        <resource identifier="RES-1" type="webcontent" href="pagina_2.html" adlcp:scormtype="sco">
+        <resource identifier="RES-1" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_2.html" adlcp:scormtype="sco">
             <file href="pagina_2.html"/>
         </resource>
-        <resource identifier="RES-2" type="webcontent" href="pagina_12.html" adlcp:scormtype="sco">
+        <resource identifier="RES-2" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_12.html" adlcp:scormtype="sco">
             <file href="pagina_12.html"/>
         </resource>
-        <resource identifier="RES-3" type="webcontent" href="pagina_20.html" adlcp:scormtype="sco">
+        <resource identifier="RES-3" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_20.html" adlcp:scormtype="sco">
             <file href="pagina_20.html"/>
         </resource>
-        <resource identifier="RES-4" type="webcontent" href="pagina_28.html" adlcp:scormtype="sco">
+        <resource identifier="RES-4" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_28.html" adlcp:scormtype="sco">
             <file href="pagina_28.html"/>
         </resource>
-        <resource identifier="RES-5" type="webcontent" href="pagina_36.html" adlcp:scormtype="sco">
+        <resource identifier="RES-5" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_36.html" adlcp:scormtype="sco">
             <file href="pagina_36.html"/>
         </resource>
-        <resource identifier="RES-SOBRE" type="webcontent" href="pagina_46.html" adlcp:scormtype="sco">
+        <resource identifier="RES-SOBRE" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_46.html" adlcp:scormtype="sco">
             <file href="pagina_46.html"/>
         </resource>
-        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="pagina_47.html" adlcp:scormtype="sco">
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_47.html" adlcp:scormtype="sco">
             <file href="pagina_47.html"/>
         </resource>
-        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="pagina_48.html" adlcp:scormtype="sco">
+        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/pagina_48.html" adlcp:scormtype="sco">
             <file href="pagina_48.html"/>
         </resource>
-        <resource identifier="RES-CREDITOS" type="webcontent" href="creditos.html" adlcp:scormtype="sco">
+        <resource identifier="RES-CREDITOS" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/politicas-publicas/creditos.html" adlcp:scormtype="sco">
             <file href="creditos.html"/>
         </resource>
     </resources>
