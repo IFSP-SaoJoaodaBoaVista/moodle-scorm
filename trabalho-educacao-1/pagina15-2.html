@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Núcleo Comum</title>
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link href="https://fonts.google.com/icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" class="holderjs">
+    <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/css/swiffy-slider.min.css" rel="stylesheet" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/js/swiffy-slider.min.js" crossorigin="anonymous" defer=""></script>
+
+
+    <script>
+      paginaAtual = 1;
+    </script>
+
+    <script src="//code.iconify.design/1/1.0.6/iconify.min.js"></script>
+    <script src="js/main.js"></script>
+  </head>
+
+<body id="body">
+
+    <header id="header" class="nav-down">
+  <div class="header-1">
+    <nav class="navbar">
+      <ul class="options navbar-nav mr-auto text-left">
+        <li class="nav-item">
+          <a class="nav-link" id="acessilibityMain" href="#body">Ir para conteúdo 1</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" id="" href="#header">Ir para o menu 2</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" id="acessilibityScrollTop" href="#">Ir para o topo 3</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" id="acessilibityFooter" href="#footer">Ir para o rodapé 4</a>
+        </li>
+      </ul>
+
+      <ul class="navbar-nav menu-acessibilidade">
+        <li class="nav-item">
+          <a class="nav-link" target="_blank" href="./acessibilidade.html">Acessibilidade</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+
+  <div class="header-2">
+    <nav class="navbar">
+      <a class="navbar-brand" href="./index.html">
+        <img alt="Logotipo" height="35" src="imagens/ept.svg">
+
+        <div class="navbar-brand-mg">
+          <p class="">
+            <strong>Formação de Profissionais</strong>
+          </p>
+
+          <p>
+            <strong>para a EPT</strong>
+          </p>
+        </div>
+      </a>
+
+      <div class="navbar-content">
+        <div class="navbar-content-row">
+          <div class="navbar-title thematic-title">
+              
+          </div>
+        </div>
+
+        <div class="navbar-content-row">
+          <div class="navbar-chapter page-title">
+          Núcleo Comum - Trabalho-Educação: Fundamentos teóricos e didáticos I
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+  <!-- Sumário - telas maiores-->
+<div id="sidebar-desktop">
+  <!-- Botão sumário fechado -->
+  <button class="sidebar-open">
+    Sumário
+    <span class="iconify" data-icon="mdi-forwardburger" data-rotate="90deg"></span>
+  </button>
+
+  <nav class="sidebar sidebar-close" role="navigation">
+    <!-- Botão sumário aberto -->
+    <div class="sidebar-header">
+      <div class="sidebar-title">
+        Sumário
+      </div>
+      <button class="sidebar-close-btn">
+        <span class="iconify" data-icon="mdi-backburger"></span>
+      </button>
+    </div>
+
+    <div class="sidebar-body">
+      <ul class="sidebar-nav" id="sidebar-nav">
+        <!-- Itens do menu serão inseridos aqui -->
+      </ul>
+    </div>
+
+    <div class="sidebar-header-tow">
+      <div class="sidebar-title">
+      </div>
+    </div>
+    <div class="sidebar-body-tow">
+      <!--<ul class="sidebar-nav" id="sidebar-nav">
+         Itens do menu serão inseridos aqui 
+      </ul>-->
+    </div>
+  </nav>
+</div>    
+
+<!-- Sumário - telas pequenas -->
+<div id="sidebar-mobile" class="d-md-none">
+  <nav class="sidebar sidebar-close" role="navigation">
+    <div class="sidebar-header">
+      <div class="label">
+        Sumário
+      </div>
+    </div>
+
+    <div class="sidebar-body">
+      <ul class="sidebar-nav" id="sidebar-nav">
+        <!-- Itens do menu serão inseridos aqui -->
+      </ul>
+    </div>
+
+    <div class="sidebar-header-tow">
+      <div class="sidebar-title">
+      </div>
+    </div>
+    
+    <div class="sidebar-body-tow">
+      <!--<ul class="sidebar-nav" id="sidebar-nav">
+         Itens do menu serão inseridos aqui
+      </ul> -->
+    </div>
+  </nav>
+</div>
+  <div id="recursos-azul" class="chapter-info">
+<div id="content-cover">
+<div id="main" class="main">
+<div class="container-fluid">
+<div class="row"><!-- Marcação de unidade e título -->
+<div class="chapter-info col-md-8 offset-md-2">
+<h4 class="chapter-label">cap&iacute;tulo 3</h4>
+<h1 class="chapter-title"><strong>Forma&ccedil;&atilde;o Humana Integral</strong><strong>&nbsp;</strong><strong><em>versus</em></strong><strong>&nbsp;Pragmatismo: a EPT em movimento e em disputa</strong></h1>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 p-0">
+<div class="jumbotron"><!-- Imagem de fundo --> <img src="medias/53472418956_c03736b4bf_c.jpg" alt="Capa cap&iacute;tulo" width="799" height="533" /></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6 offset-md-3"><!-- Legenda da imagem caso precise --></div>
+</div>
+<div class="row">
+<div class="col-md-6 offset-md-3 content-page"><!-- Texto conteúdo -->
+<p><!-- Citação longa --></p>
+
+<div id="recursos-azul" class="quote-2">
+<p class="quote citacao-longa" style="display: block;"><span style="font-weight: 400;">[...] Os novos projetos pedag&oacute;gicos n&atilde;o nascem das ideias dos intelectuais; ao contr&aacute;rio, eles s&atilde;o determinados pelas mudan&ccedil;as ocorridas no mundo do trabalho, que apresentam diferentes demandas a cada etapa de desenvolvimento das for&ccedil;as produtivas, em fun&ccedil;&atilde;o das caracter&iacute;sticas que assume a divis&atilde;o social e t&eacute;cnica do trabalho.</span></p>
+<div class="author citacao-longa-autoria">(Kuenzer, 1999, p. 18).</div>
+</div>
+<p><span style="font-weight: 400;">Com esta reflex&atilde;o feita por Ac&aacute;cia Kuenzer, iniciamos este terceiro e &uacute;ltimo <span style="color: #e03e2d;"><span style="color: #000000;">cap&iacute;tulo</span> </span>da Unidade Tem&aacute;tica Trabalho e Educa&ccedil;&atilde;o I, cuja proposta &eacute; discutir as concep&ccedil;&otilde;es de forma&ccedil;&atilde;o humana em disputa no interior da EPT e sua materialidade nos curr&iacute;culos e na respectiva legisla&ccedil;&atilde;o brasileira. Dessa forma, podemos </span>avan&ccedil;ar em nossa caminhada<span style="font-weight: 400;">&nbsp;enquanto profissionais da EPT.</span></p>
+<p><strong><span class="modal-button button" data-toggle="modal" data-target="#modal-1">Ac&aacute;cia Kuenzer</span> </strong><span style="font-weight: 400;">em seu texto &ldquo;</span><a rel="noopener" href="https://www.bts.senac.br/bts/article/view/596" target="_blank"><em><span style="font-weight: 400;">Educa&ccedil;&atilde;o profissional: categorias para uma nova pedagogia do trabalho</span></em></a><span style="font-weight: 400;">&rdquo; (1999) traz reflex&otilde;es muito importantes sobre como as mudan&ccedil;as no mundo do trabalho afetaram e afetam diretamente a rela&ccedil;&atilde;o entre seres humanos e trabalho e, consequentemente, a rela&ccedil;&atilde;o no meio de trabalho e no meio da educa&ccedil;&atilde;o e do trabalho, constituindo-se a base dessa nova pedagogia.</span></p>
+
+<div id="recursos-azul"><!-- Modal aberto-->
+<div id="modal-1" class="modal fade" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 id="exampleModalLongTitle" class="modal-title caixa-de-destaque-titulo">Ac&aacute;cia Kuenzer</h5>
+</div>
+<div class="modal-body nota">Ac&aacute;cia Kuenzer &eacute; uma importante pesquisadora da Educa&ccedil;&atilde;o Profissional e Tecnol&oacute;gica no Brasil. Ela desenvolveu suas reflex&otilde;es em tem&aacute;ticas importantes, como a da dualidade do trabalho e da educa&ccedil;&atilde;o, da forma&ccedil;&atilde;o de professores, entre outros. Ela &eacute; professora titular aposentada da Universidade Federal do Paran&aacute; (UFPR). Atualmente, &eacute; professora permanente do Programa de P&oacute;s-gradua&ccedil;&atilde;o em Educa&ccedil;&atilde;o Profissional do Instituto Federal de Educa&ccedil;&atilde;o do Rio Grande do Norte (IFRN). Sua hist&oacute;ria profissional confunde-se, em grande parte, com a hist&oacute;ria da educa&ccedil;&atilde;o profissional brasileira, sendo uma importante refer&ecirc;ncia na &aacute;rea. <br /><img style="max-width: 100%; padding: 10px;" src="medias/TE1_MNT_008 (2).jpg" alt="" /><strong> Imagem: </strong>T&iacute;tulo: Ac&aacute;cia Kuenzer Fonte: Prosa (2024).
+<p>&nbsp;</p>
+</div>
+<div class="modal-footer"><button class="btn btn-link" data-dismiss="modal" type="button"> <a class="btn button btn-lg btn-nav-prev"> Fechar Nota </a> </button></div>
+</div>
+</div>
+</div>
+</div>
+<p><span style="font-weight: 400;"><!-- Fim nota modal --></span></p>
+
+
+
+<p><span style="font-weight: 400;">Kuenzer apresenta, ainda, algumas caracter&iacute;sticas que o atual modelo de acumula&ccedil;&atilde;o flex&iacute;vel do capital exige do trabalhador. Diferentemente de aprendizagens de base r&iacute;gidas e repetitivas de processos de trabalho para a execu&ccedil;&atilde;o de determinadas tarefas ao longo de sua vida produtiva, pr&oacute;prias do modelo de<span class="modal-button button" data-toggle="modal" data-target="#modal-2"> produ&ccedil;&atilde;o taylorista-fordista</span></span><span style="font-weight: 400;">, o paradigma vigente exige do trabalhador </span><strong>aprendizagens flex&iacute;veis</strong><span style="font-weight: 400;">, que significam demonstrar &ldquo;capacidade de adapta&ccedil;&atilde;o a novas situa&ccedil;&otilde;es&rdquo; (1999, p. 19).&nbsp;</span></p>
+
+<div id="recursos-azul"><!-- Modal aberto-->
+<div id="modal-2" class="modal fade" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 id="exampleModalLongTitle" class="modal-title caixa-de-destaque-titulo">Produ&ccedil;&atilde;o taylorista-fordista</h5>
+</div>
+<div class="modal-body nota">Esse modelo fundamenta-se no processo mecanizado de produ&ccedil;&atilde;o de massa em linhas de montagem. Sua base est&aacute; na separa&ccedil;&atilde;o das fun&ccedil;&otilde;es de concep&ccedil;&atilde;o e planejamento das fun&ccedil;&otilde;es de execu&ccedil;&atilde;o. Ainda, h&aacute; uma fragmenta&ccedil;&atilde;o das tarefas, controle de tempo e remunera&ccedil;&atilde;o por desempenho (Cattani, 1997).</div>
+<div class="modal-footer"><button class="btn btn-link" data-dismiss="modal" type="button"> <a class="btn button btn-lg btn-nav-prev"> Fechar Nota </a> </button></div>
+</div>
+</div>
+</div>
+</div>
+<p><!-- Fim nota modal --></p>
+
+<p><span style="font-weight: 400;">Destacamos, aqui, de acordo com Kuenzer (1999, p. 19), algumas caracter&iacute;sticas e exig&ecirc;ncias do paradigma vigente colocadas ao trabalhador, o qual deve desenvolver capacidades cognitivas superiores e de relacionamento, tais como:&nbsp;</span></p>
+<p><img class="card-curso-topo-image" style="display: block; margin-left: auto; margin-right: auto;" src="medias/TE1_INF_008 (3).png" alt="As exig&ecirc;ncias do trabalhador" width="80%" /></p>
+<p class="legenda" style="text-align: center;"><strong>T&iacute;tulo: </strong><span style="font-weight: 400;">As exig&ecirc;ncias do trabalhador<br /></span><strong>Fonte:</strong><span style="font-weight: 400;"> Prosa (2024d).</span></p>
+<p><span style="font-weight: 400;">Essas exig&ecirc;ncias impostas ao trabalhador &ndash; ajust&aacute;vel &agrave; atual fase de acumula&ccedil;&atilde;o flex&iacute;vel do capital &ndash; aliadas &agrave;s situa&ccedil;&otilde;es de desemprego estrutural, precariza&ccedil;&atilde;o do trabalho, exclus&atilde;o e aprofundamento das desigualdades sociais, </span><strong>influenciam e modelam</strong><strong>&nbsp;</strong><span style="font-weight: 400;">o tipo de forma&ccedil;&atilde;o profissional que se espera desse &ldquo;novo&rdquo; trabalhador que, para acrescentar, tem sua condi&ccedil;&atilde;o de cidadania negada.</span></p>
+<p><span style="font-weight: 400;">A cidadania negada se relacionada ao fato de que <span style="background-color: #c2e0f4;">o trabalhador produz riqueza com o seu trabalho, mas n&atilde;o usufrui dela, sendo-lhe subtra&iacute;do o direito ao trabalho digno, &agrave; assist&ecirc;ncia &agrave; sa&uacute;de com qualidade, &agrave; moradia, &agrave; educa&ccedil;&atilde;o e ao lazer.</span></span></p>
+<p><span style="font-weight: 400;">Como dissemos no <span style="color: #000000;">cap&iacute;tulo 2</span>, quando tratamos do mundo do trabalho, a forma&ccedil;&atilde;o profissional est&aacute;</span>, inelutavelmente, <span style="font-size: 1em;">no centro da disputa entre capital e trabalho por dispor a constru&ccedil;&atilde;o da identidade do trabalhador e, tamb&eacute;m, as formas de potencializar sua for&ccedil;a de trabalho, sua capacidade de produzir e transformar.</span></p>
+<p><span style="font-weight: 400;">Da&iacute; que a forma&ccedil;&atilde;o humana do trabalhador no &acirc;mbito da EPT se desenvolve em constante movimento contradit&oacute;rio e em permanente disputa, essa que &eacute; revelada por duas abordagens educacionais/pedag&oacute;gicas e dois tipos de projetos societ&aacute;rios antag&ocirc;nicos, como destacam </span><a rel="noopener" href="https://www.bts.senac.br/bts/article/view/218" target="_blank"><span style="font-weight: 400;">Araujo e Rodrigues</span></a><span style="font-weight: 400;"> </span><span style="font-weight: 400;">(2011, p. 7):</span></p>
+<p><img class="card-curso-topo-image" src="medias/TE1_ILU_004_v2 (1).png" alt="Abordagens educacionais e projetos societ&aacute;rios antag&ocirc;nicos" width="90%" /></p>
+<p class="legenda" style="text-align: center;"><strong>T&iacute;tulo</strong><span style="font-weight: 400;">: Abordagens educacionais e projetos societ&aacute;rios antag&ocirc;nicos<br /></span><strong>Fonte</strong><span style="font-weight: 400;">: Ara&uacute;jo e Rodrigues (2011).&nbsp;<br /></span><strong>Elabora&ccedil;&atilde;o</strong><span style="font-weight: 400;">: Prosa (2024).</span></p>
+<p><span style="font-weight: 400;">Para</span> compreender<span style="font-size: 1em;">&nbsp;melhor como essas pedagogias e perspectivas de forma&ccedil;&atilde;o humana se revelam e se materializam no interior da EPT, apresentaremos os embates no &acirc;mbito da pol&iacute;tica p&uacute;blica educacional e do curr&iacute;culo e seus interlocutores principais.</span></p>
+<div class="nav-pagination"><!-- Botões 'Voltar' e 'Avançar' na leitura -->
+<div class="nav-buttons"><a class="btn button btn-lg btn-secondary btn-nav-prev" href="pagina14.html"> Voltar </a> <a class="btn button btn-lg btn-primary btn-nav-next" href="pagina16.html">Avan&ccedil;ar Leitura</a></div>
+<p class="nav-marker">P&aacute;gina 15 de 22</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+  <footer id="footer">
+  <div class="container p-0">
+    <div class="footer-row row m-0 text-center">
+      <div class="footer-img text-left">
+        <a alt="Acesso à informação" href="http://www.acessoainformacao.gov.br/" target="_blank">
+          <img src="imagens/acesso-a-informacao.png">
+        </a>
+      </div>
+    
+      <div class="footer-links">
+        <ul class="list-inline list-links">
+          <li class="list-inline-item">2024| </li>
+          <li class="list-inline-item">SETEC-MEC | </li>
+          <li class="list-inline-item">LANTEC/PROSA-UFSC.</li>
+          <li class="list-inline-item">Todos os direitos reservados.</li>
+        </ul>
+      </div>
+
+      <div class="footer-img text-right">
+        <a alt="Governo Federal" href="http://www.brasil.gov.br/" target="_blank">
+          <img src="imagens/governo-federal-brasil.png">
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+  
+  
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+    // Carregar o arquivo JSON usando fetch
+    fetch('topics.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Erro ao carregar o arquivo JSON');
+            }
+            return response.json();
+        })
+        .then(jsonData => {
+            populateMenu(jsonData);
+        })
+        .catch(error => {
+            console.error('Erro:', error);
+        });
+});
+
+// Função para verificar se a propriedade 'show' é verdadeira
+function shouldShowPage(pageProperties) {
+    if (Array.isArray(pageProperties) && pageProperties.length > 0) {
+        return pageProperties.some(property => property.show === true);
+    }
+    return false; // Não mostrar se não houver propriedades ou se todas forem false
+}
+
+// Função para inserir itens no menu
+function populateMenu(jsonData) {
+    const sidebarNavElements = document.querySelectorAll('#sidebar-nav');
+
+    sidebarNavElements.forEach(navElement => {
+        jsonData.forEach(item => {
+            if (shouldShowPage(item.page_properties)) {  // Verifica se o item deve ser mostrado com base em page_properties
+                const listItem = document.createElement('li');
+                listItem.className = 'nav-item';
+
+                const linkItem = document.createElement('a');
+                linkItem.className = 'nav-link';
+                linkItem.href = item.url;
+                linkItem.textContent = item.title;
+
+                const dotDiv = document.createElement('div');
+                dotDiv.className = 'dot';
+
+                listItem.appendChild(dotDiv);
+                listItem.appendChild(linkItem);
+
+                navElement.appendChild(listItem);
+            }
+        });
+    });
+}
+  </script>
+
+</body>
+</html>
