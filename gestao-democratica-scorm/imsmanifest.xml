@@ -53,31 +53,31 @@
     </organizations>
 
     <resources>
-        <resource identifier="RES-INTRO" type="webcontent" href="index0.html" adlcp:scormtype="sco">
+        <resource identifier="RES-INTRO" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/index0.html" adlcp:scormtype="sco">
             <file href="index0.html"/>
         </resource>
-        <resource identifier="RES-1" type="webcontent" href="index.html" adlcp:scormtype="sco">
+        <resource identifier="RES-1" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/index.html" adlcp:scormtype="sco">
             <file href="index.html"/>
         </resource>
-        <resource identifier="RES-2" type="webcontent" href="pagina-2.html" adlcp:scormtype="sco">
+        <resource identifier="RES-2" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/pagina-2.html" adlcp:scormtype="sco">
             <file href="pagina-2.html"/>
         </resource>
-        <resource identifier="RES-3" type="webcontent" href="index-3.html" adlcp:scormtype="sco">
+        <resource identifier="RES-3" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/index-3.html" adlcp:scormtype="sco">
             <file href="index-3.html"/>
         </resource>
-        <resource identifier="RES-4" type="webcontent" href="pagina-13.html" adlcp:scormtype="sco">
+        <resource identifier="RES-4" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/pagina-13.html" adlcp:scormtype="sco">
             <file href="pagina-13.html"/>
         </resource>
-        <resource identifier="RES-SOBRE" type="webcontent" href="sobre-autor.html" adlcp:scormtype="sco">
+        <resource identifier="RES-SOBRE" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/sobre-autor.html" adlcp:scormtype="sco">
             <file href="sobre-autor.html"/>
         </resource>
-        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="biblioteca-recursos.html" adlcp:scormtype="sco">
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/biblioteca-recursos.html" adlcp:scormtype="sco">
             <file href="biblioteca-recursos.html"/>
         </resource>
-        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="acessibilidade.html" adlcp:scormtype="sco">
+        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/acessibilidade.html" adlcp:scormtype="sco">
             <file href="acessibilidade.html"/>
         </resource>
-        <resource identifier="RES-CREDITOS" type="webcontent" href="creditos.html" adlcp:scormtype="sco">
+        <resource identifier="RES-CREDITOS" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-democratica/creditos.html" adlcp:scormtype="sco">
             <file href="creditos.html"/>
         </resource>
     </resources>
