@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="curso_planejamento_e_avaliacao" version="1.0"
+    xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom>
+            <general>
+                <title>
+                    <string>Planejamento e Avaliação Institucional na EPT</string>
+                </title>
+                <language>pt-BR</language>
+            </general>
+        </lom>
+    </metadata>
+
+    <organizations default="ORG-1">
+        <organization identifier="ORG-1">
+            <title>Planejamento e Avaliação Institucional na EPT</title>
+            <item identifier="ITEM-INTRO" identifierref="RES-INTRO">
+                <title>Introdução</title>
+            </item>
+            <item identifier="ITEM-1" identifierref="RES-1">
+                <title>A Indissociabilidade entre Planejamento e Avaliação Institucional</title>
+            </item>
+            <item identifier="ITEM-2" identifierref="RES-2">
+                <title>Planejamento participativo, autonomia e emancipação estudante</title>
+            </item>
+            <item identifier="ITEM-3" identifierref="RES-3">
+                <title>Participação de todos os segmentos da comunidade acadêmica</title>
+            </item>
+            <item identifier="ITEM-SOBRE" identifierref="RES-SOBRE">
+                <title>Sobre o Autor</title>
+            </item>
+            <item identifier="ITEM-BIBLIOTECA" identifierref="RES-BIBLIOTECA">
+                <title>Biblioteca de Recursos</title>
+            </item>
+            <item identifier="ITEM-ACESSIBILIDADE" identifierref="RES-ACESSIBILIDADE">
+                <title>Acessibilidade</title>
+            </item>
+            <item identifier="ITEM-CREDITOS" identifierref="RES-CREDITOS">
+                <title>Créditos</title>
+            </item>
+        </organization>
+    </organizations>
+
+    <resources>
+        <resource identifier="RES-INTRO" type="webcontent" href="index2.html" adlcp:scormtype="sco">
+            <file href="index2.html"/>
+        </resource>
+        <resource identifier="RES-1" type="webcontent" href="pagina2.html" adlcp:scormtype="sco">
+            <file href="pagina2.html"/>
+        </resource>
+        <resource identifier="RES-2" type="webcontent" href="pagina5.html" adlcp:scormtype="sco">
+            <file href="pagina5.html"/>
+        </resource>
+        <resource identifier="RES-3" type="webcontent" href="pagina10.html" adlcp:scormtype="sco">
+            <file href="pagina10.html"/>
+        </resource>
+        <resource identifier="RES-SOBRE" type="webcontent" href="pagina15.html" adlcp:scormtype="sco">
+            <file href="pagina15.html"/>
+        </resource>
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="pagina16.html" adlcp:scormtype="sco">
+            <file href="pagina16.html"/>
+        </resource>
+        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="pagina17.html" adlcp:scormtype="sco">
+            <file href="pagina17.html"/>
+        </resource>
+        <resource identifier="RES-CREDITOS" type="webcontent" href="pagina18.html" adlcp:scormtype="sco">
+            <file href="pagina18.html"/>
+        </resource>
+    </resources>
+</manifest>
