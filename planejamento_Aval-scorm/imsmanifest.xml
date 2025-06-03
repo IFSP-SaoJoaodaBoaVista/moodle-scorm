@@ -50,28 +50,28 @@
     </organizations>
 
     <resources>
-        <resource identifier="RES-INTRO" type="webcontent" href="index2.html" adlcp:scormtype="sco">
+        <resource identifier="RES-INTRO" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/index2.html" adlcp:scormtype="sco">
             <file href="index2.html"/>
         </resource>
-        <resource identifier="RES-1" type="webcontent" href="pagina2.html" adlcp:scormtype="sco">
+        <resource identifier="RES-1" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/pagina2.html" adlcp:scormtype="sco">
             <file href="pagina2.html"/>
         </resource>
-        <resource identifier="RES-2" type="webcontent" href="pagina5.html" adlcp:scormtype="sco">
+        <resource identifier="RES-2" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/pagina5.html" adlcp:scormtype="sco">
             <file href="pagina5.html"/>
         </resource>
-        <resource identifier="RES-3" type="webcontent" href="pagina10.html" adlcp:scormtype="sco">
+        <resource identifier="RES-3" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/pagina10.html" adlcp:scormtype="sco">
             <file href="pagina10.html"/>
         </resource>
-        <resource identifier="RES-SOBRE" type="webcontent" href="pagina15.html" adlcp:scormtype="sco">
+        <resource identifier="RES-SOBRE" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/pagina15.html" adlcp:scormtype="sco">
             <file href="pagina15.html"/>
         </resource>
-        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="pagina16.html" adlcp:scormtype="sco">
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/pagina16.html" adlcp:scormtype="sco">
             <file href="pagina16.html"/>
         </resource>
-        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="pagina17.html" adlcp:scormtype="sco">
+        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/pagina17.html" adlcp:scormtype="sco">
             <file href="pagina17.html"/>
         </resource>
-        <resource identifier="RES-CREDITOS" type="webcontent" href="pagina18.html" adlcp:scormtype="sco">
+        <resource identifier="RES-CREDITOS" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/planejamento_Aval/pagina18.html" adlcp:scormtype="sco">
             <file href="pagina18.html"/>
         </resource>
     </resources>
