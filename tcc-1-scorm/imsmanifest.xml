@@ -44,25 +44,25 @@
         </organization>
     </organizations>
     <resources>
-        <resource identifier="RES-INTRO" type="webcontent" href="index.html" adlcp:scormtype="sco">
+        <resource identifier="RES-INTRO" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-1/index.html" adlcp:scormtype="sco">
             <file href="index.html"/>
         </resource>
-        <resource identifier="RES-1" type="webcontent" href="parte1-pagina1.html" adlcp:scormtype="sco">
+        <resource identifier="RES-1" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-1/parte1-pagina1.html" adlcp:scormtype="sco">
             <file href="parte1-pagina1.html"/>
         </resource>
-        <resource identifier="RES-2" type="webcontent" href="parte1-pagina4.html" adlcp:scormtype="sco">
+        <resource identifier="RES-2" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-1/parte1-pagina4.html" adlcp:scormtype="sco">
             <file href="parte1-pagina4.html"/>
         </resource>
-        <resource identifier="RES-3" type="webcontent" href="parte1-pagina7.html" adlcp:scormtype="sco">
+        <resource identifier="RES-3" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-1/parte1-pagina7.html" adlcp:scormtype="sco">
             <file href="parte1-pagina7.html"/>
         </resource>
-        <resource identifier="RES-4" type="webcontent" href="parte1-pagina8.html" adlcp:scormtype="sco">
+        <resource identifier="RES-4" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-1/parte1-pagina8.html" adlcp:scormtype="sco">
             <file href="parte1-pagina8.html"/>
         </resource>
-        <resource identifier="RES-5" type="webcontent" href="parte1-pagina10.html" adlcp:scormtype="sco">
+        <resource identifier="RES-5" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-1/parte1-pagina10.html" adlcp:scormtype="sco">
             <file href="parte1-pagina10.html"/>
         </resource>
-        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="parte1-pagina13.html" adlcp:scormtype="sco">
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-1/parte1-pagina13.html" adlcp:scormtype="sco">
             <file href="parte1-pagina13.html"/>
         </resource>
     </resources>
