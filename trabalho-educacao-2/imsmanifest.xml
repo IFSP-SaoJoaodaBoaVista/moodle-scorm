@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="curso_trabalho_educacao_fundamentos_II" version="1.0"
+    xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom>
+            <general>
+                <title>
+                    <string>Trabalho e Educação: Fundamentos teóricos e didáticos II</string>
+                </title>
+                <language>pt-BR</language>
+            </general>
+        </lom>
+    </metadata>
+    <organizations default="ORG-1">
+        <organization identifier="ORG-1">
+            <title>Trabalho e Educação: Fundamentos teóricos e didáticos II</title>
+            <item identifier="ITEM-INTRO" identifierref="RES-INTRO">
+                <title>Introdução</title>
+            </item>
+            <item identifier="ITEM-1" identifierref="RES-1">
+                <title>Capítulo 1: Horizonte: o trabalho como princípio educativo e a Escola Unitária – de onde viemos e para onde vamos?</title>
+            </item>
+            <item identifier="ITEM-2" identifierref="RES-2">
+                <title>Capítulo 2: Caminho em construção: o ensino integrado e a efetivação do trabalho como princípio educativo na EPT</title>
+            </item>
+            <item identifier="ITEM-3" identifierref="RES-3">
+                <title>Capítulo 3: Práxis transformadora na EPT (avançar na caminhada)</title>
+            </item>
+            <item identifier="ITEM-BIBLIOTECA" identifierref="RES-BIBLIOTECA">
+                <title>Biblioteca de Recursos</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="RES-INTRO" type="webcontent" href="index.html" adlcp:scormtype="sco">
+            <file href="index.html"/>
+        </resource>
+        <resource identifier="RES-1" type="webcontent" href="parte1.pagina0.html" adlcp:scormtype="sco">
+            <file href="parte1.pagina0.html"/>
+        </resource>
+        <resource identifier="RES-2" type="webcontent" href="parte2.pagina1.html" adlcp:scormtype="sco">
+            <file href="parte2.pagina1.html"/>
+        </resource>
+        <resource identifier="RES-3" type="webcontent" href="parte3.pagina1.html" adlcp:scormtype="sco">
+            <file href="parte3.pagina1.html"/>
+        </resource>
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="biblioteca.html" adlcp:scormtype="sco">
+            <file href="biblioteca.html"/>
+        </resource>
+    </resources>
+</manifest>
