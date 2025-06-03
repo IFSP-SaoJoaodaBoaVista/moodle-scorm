@@ -38,19 +38,19 @@
         </organization>
     </organizations>
     <resources>
-        <resource identifier="RES-INTRO" type="webcontent" href="https://github.com/IFSP-SaoJoaodaBoaVista/moodle-scorm/tree/main/trabalho-educacao-2/index.html" adlcp:scormtype="sco">
+        <resource identifier="RES-INTRO" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/trabalho-educacao-2/index.html" adlcp:scormtype="sco">
             <file href="index.html"/>
         </resource>
-        <resource identifier="RES-1" type="webcontent" href="https://github.com/IFSP-SaoJoaodaBoaVista/moodle-scorm/tree/main/trabalho-educacao-2/parte1.pagina0.html" adlcp:scormtype="sco">
+        <resource identifier="RES-1" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/trabalho-educacao-2/parte1.pagina0.html" adlcp:scormtype="sco">
             <file href="parte1.pagina0.html"/>
         </resource>
-        <resource identifier="RES-2" type="webcontent" href="https://github.com/IFSP-SaoJoaodaBoaVista/moodle-scorm/tree/main/trabalho-educacao-2/parte2.pagina1.html" adlcp:scormtype="sco">
+        <resource identifier="RES-2" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/trabalho-educacao-2/parte2.pagina1.html" adlcp:scormtype="sco">
             <file href="parte2.pagina1.html"/>
         </resource>
-        <resource identifier="RES-3" type="webcontent" href="https://github.com/IFSP-SaoJoaodaBoaVista/moodle-scorm/tree/main/trabalho-educacao-2/parte3.pagina1.html" adlcp:scormtype="sco">
+        <resource identifier="RES-3" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/trabalho-educacao-2/parte3.pagina1.html" adlcp:scormtype="sco">
             <file href="parte3.pagina1.html"/>
         </resource>
-        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="https://github.com/IFSP-SaoJoaodaBoaVista/moodle-scorm/tree/main/trabalho-educacao-2/biblioteca.html" adlcp:scormtype="sco">
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/trabalho-educacao-2/biblioteca.html" adlcp:scormtype="sco">
             <file href="biblioteca.html"/>
         </resource>
     </resources>
