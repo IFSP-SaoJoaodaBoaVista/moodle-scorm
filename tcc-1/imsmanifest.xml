@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="curso_trabalho_educacao_fundamentos" version="1.0"
+    xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom>
+            <general>
+                <title>
+                    <string>Trabalho e Educação: Fundamentos teóricos e didáticos I</string>
+                </title>
+                <language>pt-BR</language>
+            </general>
+        </lom>
+    </metadata>
+    <organizations default="ORG-1">
+        <organization identifier="ORG-1">
+            <title>Trabalho e Educação: Fundamentos teóricos e didáticos I</title>
+            <item identifier="ITEM-INTRO" identifierref="RES-INTRO">
+                <title>Introdução</title>
+            </item>
+            <item identifier="ITEM-1" identifierref="RES-1">
+                <title>Capítulo 1: Elaboração do Plano de Formação</title>
+            </item>
+            <item identifier="ITEM-2" identifierref="RES-2">
+                <title>Capítulo 2: Articulando vivências em contextos educacionais</title>
+            </item>
+            <item identifier="ITEM-3" identifierref="RES-3">
+                <title>Capítulo 3: Construindo o seu Relatório de Formação</title>
+            </item>
+            <item identifier="ITEM-4" identifierref="RES-4">
+                <title>Capítulo 4: Elaborando o seu Memorial</title>
+            </item>
+            <item identifier="ITEM-5" identifierref="RES-5">
+                <title>Capítulo 4: Relembrando as etapas do processo</title>
+            </item>
+            <item identifier="ITEM-BIBLIOTECA" identifierref="RES-BIBLIOTECA">
+                <title>Biblioteca de Recursos</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="RES-INTRO" type="webcontent" href="index.html" adlcp:scormtype="sco">
+            <file href="index.html"/>
+        </resource>
+        <resource identifier="RES-1" type="webcontent" href="parte1-pagina1.html" adlcp:scormtype="sco">
+            <file href="parte1-pagina1.html"/>
+        </resource>
+        <resource identifier="RES-2" type="webcontent" href="parte1-pagina4.html" adlcp:scormtype="sco">
+            <file href="parte1-pagina4.html"/>
+        </resource>
+        <resource identifier="RES-3" type="webcontent" href="parte1-pagina7.html" adlcp:scormtype="sco">
+            <file href="parte1-pagina7.html"/>
+        </resource>
+        <resource identifier="RES-4" type="webcontent" href="parte1-pagina8.html" adlcp:scormtype="sco">
+            <file href="parte1-pagina8.html"/>
+        </resource>
+        <resource identifier="RES-5" type="webcontent" href="parte1-pagina10.html" adlcp:scormtype="sco">
+            <file href="parte1-pagina10.html"/>
+        </resource>
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="parte1-pagina13.html" adlcp:scormtype="sco">
+            <file href="parte1-pagina13.html"/>
+        </resource>
+    </resources>
+</manifest>
