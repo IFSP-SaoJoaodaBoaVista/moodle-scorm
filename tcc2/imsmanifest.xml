@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="curso_gestao_ept" version="1.0"
+    xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom>
+            <general>
+                <title>
+                    <string>Gestão na Educação Profissional e Tecnológica</string>
+                </title>
+                <language>pt-BR</language>
+            </general>
+        </lom>
+    </metadata>
+    <organizations default="ORG-1">
+        <organization identifier="ORG-1">
+            <title>Gestão na Educação Profissional e Tecnológica</title>
+            <item identifier="ITEM-INTRO" identifierref="RES-INTRO">
+                <title>Introdução</title>
+            </item>
+            <item identifier="ITEM-1" identifierref="RES-1">
+                <title>Gestão na Educação Profissional e Tecnológica</title>
+            </item>
+            <item identifier="ITEM-2" identifierref="RES-2">
+                <title>Vamos falar sobre Gestão na EPT?</title>
+            </item>
+            <item identifier="ITEM-3" identifierref="RES-3">
+                <title>A Gestão Educacional do Macro ao Micro</title>
+            </item>
+            <item identifier="ITEM-4" identifierref="RES-4">
+                <title>Gestão Educacional Democrática para uma construção emancipatória</title>
+            </item>
+            <item identifier="ITEM-5" identifierref="RES-5">
+                <title>Organizando o seu Memorial</title>
+            </item>
+            <item identifier="ITEM-6" identifierref="RES-6">
+                <title>Relação entre teoria e prática</title>
+            </item>
+            <item identifier="ITEM-7" identifierref="RES-7">
+                <title>Compreendendo o memorial</title>
+            </item>
+            <item identifier="ITEM-SOBRE" identifierref="RES-SOBRE">
+                <title>Sobre a Autora</title>
+            </item>
+            <item identifier="ITEM-BIBLIOTECA" identifierref="RES-BIBLIOTECA">
+                <title>Biblioteca de Recursos</title>
+            </item>
+            <item identifier="ITEM-ACESSIBILIDADE" identifierref="RES-ACESSIBILIDADE">
+                <title>Acessibilidade</title>
+            </item>
+            <item identifier="ITEM-CREDITOS" identifierref="RES-CREDITOS">
+                <title>Créditos</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="RES-INTRO" type="webcontent" href="index.html" adlcp:scormtype="sco">
+            <file href="index.html"/>
+        </resource>
+        <resource identifier="RES-1" type="webcontent" href="pagina2.html" adlcp:scormtype="sco">
+            <file href="pagina2.html"/>
+        </resource>
+        <resource identifier="RES-2" type="webcontent" href="pagina3.html" adlcp:scormtype="sco">
+            <file href="pagina3.html"/>
+        </resource>
+        <resource identifier="RES-3" type="webcontent" href="pagina4.html" adlcp:scormtype="sco">
+            <file href="pagina4.html"/>
+        </resource>
+        <resource identifier="RES-4" type="webcontent" href="pagina5.html" adlcp:scormtype="sco">
+            <file href="pagina5.html"/>
+        </resource>
+        <resource identifier="RES-5" type="webcontent" href="pagina6.html" adlcp:scormtype="sco">
+            <file href="pagina6.html"/>
+        </resource>
+        <resource identifier="RES-6" type="webcontent" href="pagina7.html" adlcp:scormtype="sco">
+            <file href="pagina7.html"/>
+        </resource>
+        <resource identifier="RES-7" type="webcontent" href="pagina8.html" adlcp:scormtype="sco">
+            <file href="pagina8.html"/>
+        </resource>
+        <resource identifier="RES-SOBRE" type="webcontent" href="pagina11.html" adlcp:scormtype="sco">
+            <file href="pagina11.html"/>
+        </resource>
+        <resource identifier="RES-BIBLIOTECA" type="webcontent" href="biblioteca.html" adlcp:scormtype="sco">
+            <file href="biblioteca.html"/>
+        </resource>
+        <resource identifier="RES-ACESSIBILIDADE" type="webcontent" href="acessibilidade.html" adlcp:scormtype="sco">
+            <file href="acessibilidade.html"/>
+        </resource>
+        <resource identifier="RES-CREDITOS" type="webcontent" href="creditos.html" adlcp:scormtype="sco">
+            <file href="creditos.html"/>
+        </resource>
+    </resources>
+</manifest>
