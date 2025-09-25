@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="gestao_ept_integral_scorm" version="1.0"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1
+  http://www.imsglobal.org/xsd/imscp_v1p1.xsd
+  http://www.adlnet.org/xsd/adlcp_v1p3
+  http://www.adlnet.org/xsd/adlcp_v1p3.xsd">
+
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 3rd Edition</schemaversion>
+  </metadata>
+
+  <organizations default="org1">
+    <organization identifier="org1">
+      <title>Gestão da EPT Integral e Integrada</title>
+      <item identifier="item1" identifierref="res1">
+        <title>Introdução</title>
+      </item>
+      <item identifier="item2" identifierref="res2">
+        <title>Fundamentos da EPT integral, integrada e gestão escolar</title>
+      </item>
+      <item identifier="item3" identifierref="res3">
+        <title>Neoliberalismo, neotecnicismo e Gestão da EPT</title>
+      </item>
+      <item identifier="item4" identifierref="res4">
+        <title>Politecnia na EPT integral e integrada</title>
+      </item>
+      <item identifier="item5" identifierref="res5">
+        <title>Planejamento estratégico na gestão integral</title>
+      </item>
+      <item identifier="item6" identifierref="res6">
+        <title>Conhecimentos específicos da gestão da EPT integral e integrada</title>
+      </item>
+      <item identifier="item7" identifierref="res7">
+        <title>Sobre o Autor</title>
+      </item>
+      <item identifier="item8" identifierref="res8">
+        <title>Biblioteca de Recursos</title>
+      </item>
+      <item identifier="item9" identifierref="res9">
+        <title>Acessibilidade</title>
+      </item>
+      <item identifier="item10" identifierref="res10">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="res1" type="webcontent" adlcp:scormType="sco" href="index.html">
+      <file href="index.html" />
+    </resource>
+    <resource identifier="res2" type="webcontent" adlcp:scormType="sco" href="parte1-pagina1.html">
+      <file href="parte1-pagina1.html" />
+    </resource>
+    <resource identifier="res3" type="webcontent" adlcp:scormType="sco" href="parte2-pagina1.html">
+      <file href="parte2-pagina1.html" />
+    </resource>
+    <resource identifier="res4" type="webcontent" adlcp:scormType="sco" href="parte3-pagina1.html">
+      <file href="parte3-pagina1.html" />
+    </resource>
+    <resource identifier="res5" type="webcontent" adlcp:scormType="sco" href="parte4-pagina1.html">
+      <file href="parte4-pagina1.html" />
+    </resource>
+    <resource identifier="res6" type="webcontent" adlcp:scormType="sco" href="parte5-pagina1.html">
+      <file href="parte5-pagina1.html" />
+    </resource>
+    <resource identifier="res7" type="webcontent" adlcp:scormType="sco" href="parte6-pagina1.html">
+      <file href="parte6-pagina1.html" />
+    </resource>
+    <resource identifier="res8" type="webcontent" adlcp:scormType="sco" href="parte6-pagina2.html">
+      <file href="parte6-pagina2.html" />
+    </resource>
+    <resource identifier="res9" type="webcontent" adlcp:scormType="sco" href="parte6-pagina3.html">
+      <file href="parte6-pagina3.html" />
+    </resource>
+    <resource identifier="res10" type="webcontent" adlcp:scormType="sco" href="parte6-pagina4.html">
+      <file href="parte6-pagina4.html" />
+    </resource>
+  </resources>
+</manifest>

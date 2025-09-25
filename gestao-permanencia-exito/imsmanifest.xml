@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="ganza-ept-scorm" version="1.0"
+          xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 
+                              imscp_rootv1p1p2.xsd 
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 
+                              adlcp_rootv1p2.xsd">
+
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+
+  <organizations default="ganza-org">
+    <organization identifier="ganza-org">
+      <title>A EPT e o desafio de um projeto em um país marcado pela desigualdade</title>
+
+      <item identifier="item1" identifierref="res1">
+        <title>Introdução</title>
+      </item>
+      <item identifier="item2" identifierref="res2">
+        <title>A EPT e o desafio de um projeto em um país marcado pela desigualdade</title>
+      </item>
+      <item identifier="item3" identifierref="res3">
+        <title>Articulação e seus impactos para a permanência estudantil</title>
+      </item>
+      <item identifier="item4" identifierref="res4">
+        <title>Diversidade como princípio da organização curricular</title>
+      </item>
+      <item identifier="item5" identifierref="res5">
+        <title>Uma outra abordagem na elaboração de políticas públicas</title>
+      </item>
+      <item identifier="item6" identifierref="res6">
+        <title>Sobre a Autora</title>
+      </item>
+      <item identifier="item7" identifierref="res7">
+        <title>Biblioteca de Recursos</title>
+      </item>
+      <item identifier="item8" identifierref="res8">
+        <title>Acessibilidade</title>
+      </item>
+      <item identifier="item9" identifierref="res9">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="res1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+    </resource>
+    <resource identifier="res2" type="webcontent" adlcp:scormtype="sco" href="pagina01.html">
+      <file href="pagina01.html"/>
+    </resource>
+    <resource identifier="res3" type="webcontent" adlcp:scormtype="sco" href="paginaw1.html">
+      <file href="paginaw1.html"/>
+    </resource>
+    <resource identifier="res4" type="webcontent" adlcp:scormtype="sco" href="paginaz1.html">
+      <file href="paginaz1.html"/>
+    </resource>
+    <resource identifier="res5" type="webcontent" adlcp:scormtype="sco" href="paginax1.html">
+      <file href="paginax1.html"/>
+    </resource>
+    <resource identifier="res6" type="webcontent" adlcp:scormtype="sco" href="sobre_autora.html">
+      <file href="sobre_autora.html"/>
+    </resource>
+    <resource identifier="res7" type="webcontent" adlcp:scormtype="sco" href="biblioteca_de_recursos_.html">
+      <file href="biblioteca_de_recursos_.html"/>
+    </resource>
+    <resource identifier="res8" type="webcontent" adlcp:scormtype="sco" href="acessibilidade.html">
+      <file href="acessibilidade.html"/>
+    </resource>
+    <resource identifier="res9" type="webcontent" adlcp:scormtype="sco" href="creditos.html">
+      <file href="creditos.html"/>
+    </resource>
+  </resources>
+
+</manifest>

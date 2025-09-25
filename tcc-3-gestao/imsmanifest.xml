@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<manifest identifier="ganza-manifest"
+          version="1.0"
+          xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 
+                              http://www.imsglobal.org/xsd/imscp_v1p1.xsd 
+                              http://www.adlnet.org/xsd/adlcp_v1p3 
+                              http://www.adlnet.org/xsd/adlcp_v1p3.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+  </metadata>
+  <organizations default="ganza-org">
+    <organization identifier="ganza-org">
+      <title>Relatório de Formação na EPT</title>
+      <item identifier="item1" identifierref="resource1">
+        <title>Introdução</title>
+      </item>
+      <item identifier="item2" identifierref="resource2">
+        <title>A estrutura e o conteúdo do Relatório de Formação</title>
+      </item>
+      <item identifier="item3" identifierref="resource3">
+        <title>Gestão da Educação Profissional e Tecnológica</title>
+      </item>
+      <item identifier="item4" identifierref="resource4">
+        <title>Como iniciar o Relatório?</title>
+      </item>
+      <item identifier="item5" identifierref="resource5">
+        <title>Sistematização do Relatório</title>
+      </item>
+      <item identifier="item6" identifierref="resource6">
+        <title>Sobre a Autora</title>
+      </item>
+      <item identifier="item7" identifierref="resource7">
+        <title>Biblioteca de Recursos</title>
+      </item>
+      <item identifier="item8" identifierref="resource8">
+        <title>Acessibilidade</title>
+      </item>
+      <item identifier="item9" identifierref="resource9">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="resource1" type="webcontent" adlcp:scormType="sco" href="index.html">
+      <file href="index.html"/>
+    </resource>
+    <resource identifier="resource2" type="webcontent" adlcp:scormType="sco" href="pagina2.html">
+      <file href="pagina2.html"/>
+    </resource>
+    <resource identifier="resource3" type="webcontent" adlcp:scormType="sco" href="pagina3.html">
+      <file href="pagina3.html"/>
+    </resource>
+    <resource identifier="resource4" type="webcontent" adlcp:scormType="sco" href="pagina4.html">
+      <file href="pagina4.html"/>
+    </resource>
+    <resource identifier="resource5" type="webcontent" adlcp:scormType="sco" href="pagina5.html">
+      <file href="pagina5.html"/>
+    </resource>
+    <resource identifier="resource6" type="webcontent" adlcp:scormType="sco" href="pagina7.html">
+      <file href="pagina7.html"/>
+    </resource>
+    <resource identifier="resource7" type="webcontent" adlcp:scormType="sco" href="pagina8.html">
+      <file href="pagina8.html"/>
+    </resource>
+    <resource identifier="resource8" type="webcontent" adlcp:scormType="sco" href="pagina9.html">
+      <file href="pagina9.html"/>
+    </resource>
+    <resource identifier="resource9" type="webcontent" adlcp:scormType="sco" href="creditos.html">
+      <file href="creditos.html"/>
+    </resource>
+  </resources>
+</manifest>

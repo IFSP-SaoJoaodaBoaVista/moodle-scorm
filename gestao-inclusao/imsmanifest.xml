@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="relatorio_gestao_e_diferenca_scorm" version="1.0"
+  xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1
+  http://www.imsglobal.org/xsd/imscp_v1p1.xsd
+  http://www.adlnet.org/xsd/adlcp_v1p3
+  http://www.adlnet.org/xsd/adlcp_v1p3.xsd">
+
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 3rd Edition</schemaversion>
+  </metadata>
+
+  <organizations default="org1">
+    <organization identifier="org1">
+      <title>Gestão e o Direito à Diferença na EPT</title>
+      <item identifier="item1" identifierref="res1">
+        <title>Introdução</title>
+      </item>
+      <item identifier="item2" identifierref="res2">
+        <title>Entre a igualdade de direitos e o direito à diferença</title>
+      </item>
+      <item identifier="item3" identifierref="res3">
+        <title>A luta dos movimentos sociais na conquista do direito à educação</title>
+      </item>
+      <item identifier="item4" identifierref="res4">
+        <title>Desafios da gestão na defesa do direito à diferença na EPT</title>
+      </item>
+      <item identifier="item5" identifierref="res5">
+        <title>Para romper barreiras: a gestão e o compromisso com a acessibilidade</title>
+      </item>
+      <item identifier="item6" identifierref="res6">
+        <title>Sobre a Autora</title>
+      </item>
+      <item identifier="item7" identifierref="res7">
+        <title>Biblioteca de Recursos</title>
+      </item>
+      <item identifier="item8" identifierref="res8">
+        <title>Acessibilidade</title>
+      </item>
+      <item identifier="item9" identifierref="res9">
+        <title>Créditos</title>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="res1" type="webcontent" adlcp:scormType="sco" href="index.html">
+      <file href="index.html" />
+    </resource>
+    <resource identifier="res2" type="webcontent" adlcp:scormType="sco" href="pagina2.html">
+      <file href="pagina2.html" />
+    </resource>
+    <resource identifier="res3" type="webcontent" adlcp:scormType="sco" href="pagina6.html">
+      <file href="pagina6.html" />
+    </resource>
+    <resource identifier="res4" type="webcontent" adlcp:scormType="sco" href="pagina12.html">
+      <file href="pagina12.html" />
+    </resource>
+    <resource identifier="res5" type="webcontent" adlcp:scormType="sco" href="pagina17.html">
+      <file href="pagina17.html" />
+    </resource>
+    <resource identifier="res6" type="webcontent" adlcp:scormType="sco" href="pagina22.html">
+      <file href="pagina22.html" />
+    </resource>
+    <resource identifier="res7" type="webcontent" adlcp:scormType="sco" href="pagina23.html">
+      <file href="pagina23.html" />
+    </resource>
+    <resource identifier="res8" type="webcontent" adlcp:scormType="sco" href="pagina24.html">
+      <file href="pagina24.html" />
+    </resource>
+    <resource identifier="res9" type="webcontent" adlcp:scormType="sco" href="pagina25.html">
+      <file href="pagina25.html" />
+    </resource>
+  </resources>
+</manifest>
