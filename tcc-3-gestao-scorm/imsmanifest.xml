@@ -45,31 +45,31 @@
     </organization>
   </organizations>
   <resources>
-    <resource identifier="resource1" type="webcontent" adlcp:scormType="sco" href="index.html">
+    <resource identifier="resource1" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/index.html">
       <file href="index.html"/>
     </resource>
-    <resource identifier="resource2" type="webcontent" adlcp:scormType="sco" href="pagina2.html">
+    <resource identifier="resource2" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/pagina2.html">
       <file href="pagina2.html"/>
     </resource>
-    <resource identifier="resource3" type="webcontent" adlcp:scormType="sco" href="pagina3.html">
+    <resource identifier="resource3" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/pagina3.html">
       <file href="pagina3.html"/>
     </resource>
-    <resource identifier="resource4" type="webcontent" adlcp:scormType="sco" href="pagina4.html">
+    <resource identifier="resource4" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/pagina4.html">
       <file href="pagina4.html"/>
     </resource>
-    <resource identifier="resource5" type="webcontent" adlcp:scormType="sco" href="pagina5.html">
+    <resource identifier="resource5" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/pagina5.html">
       <file href="pagina5.html"/>
     </resource>
-    <resource identifier="resource6" type="webcontent" adlcp:scormType="sco" href="pagina7.html">
+    <resource identifier="resource6" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/pagina7.html">
       <file href="pagina7.html"/>
     </resource>
-    <resource identifier="resource7" type="webcontent" adlcp:scormType="sco" href="pagina8.html">
+    <resource identifier="resource7" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/pagina8.html">
       <file href="pagina8.html"/>
     </resource>
-    <resource identifier="resource8" type="webcontent" adlcp:scormType="sco" href="pagina9.html">
+    <resource identifier="resource8" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/pagina9.html">
       <file href="pagina9.html"/>
     </resource>
-    <resource identifier="resource9" type="webcontent" adlcp:scormType="sco" href="creditos.html">
+    <resource identifier="resource9" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/tcc-3-gestao/creditos.html">
       <file href="creditos.html"/>
     </resource>
   </resources>
