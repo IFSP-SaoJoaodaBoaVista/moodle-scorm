@@ -47,31 +47,31 @@
   </organizations>
 
   <resources>
-    <resource identifier="res1" type="webcontent" adlcp:scormType="sco" href="index.html">
+    <resource identifier="res1" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/index.html">
       <file href="index.html" />
     </resource>
-    <resource identifier="res2" type="webcontent" adlcp:scormType="sco" href="pagina2.html">
+    <resource identifier="res2" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina2.html">
       <file href="pagina2.html" />
     </resource>
-    <resource identifier="res3" type="webcontent" adlcp:scormType="sco" href="pagina6.html">
+    <resource identifier="res3" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina6.html">
       <file href="pagina6.html" />
     </resource>
-    <resource identifier="res4" type="webcontent" adlcp:scormType="sco" href="pagina12.html">
+    <resource identifier="res4" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina12.html">
       <file href="pagina12.html" />
     </resource>
-    <resource identifier="res5" type="webcontent" adlcp:scormType="sco" href="pagina17.html">
+    <resource identifier="res5" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina17.html">
       <file href="pagina17.html" />
     </resource>
-    <resource identifier="res6" type="webcontent" adlcp:scormType="sco" href="pagina22.html">
+    <resource identifier="res6" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina22.html">
       <file href="pagina22.html" />
     </resource>
-    <resource identifier="res7" type="webcontent" adlcp:scormType="sco" href="pagina23.html">
+    <resource identifier="res7" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina23.html">
       <file href="pagina23.html" />
     </resource>
-    <resource identifier="res8" type="webcontent" adlcp:scormType="sco" href="pagina24.html">
+    <resource identifier="res8" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina24.html">
       <file href="pagina24.html" />
     </resource>
-    <resource identifier="res9" type="webcontent" adlcp:scormType="sco" href="pagina25.html">
+    <resource identifier="res9" type="webcontent" adlcp:scormType="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-inclusao/pagina25.html">
       <file href="pagina25.html" />
     </resource>
   </resources>
