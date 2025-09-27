@@ -48,31 +48,31 @@
   </organizations>
 
   <resources>
-    <resource identifier="res1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+    <resource identifier="res1" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/index.html">
       <file href="index.html"/>
     </resource>
-    <resource identifier="res2" type="webcontent" adlcp:scormtype="sco" href="pagina01.html">
+    <resource identifier="res2" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/pagina01.html">
       <file href="pagina01.html"/>
     </resource>
-    <resource identifier="res3" type="webcontent" adlcp:scormtype="sco" href="paginaw1.html">
+    <resource identifier="res3" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/paginaw1.html">
       <file href="paginaw1.html"/>
     </resource>
-    <resource identifier="res4" type="webcontent" adlcp:scormtype="sco" href="paginaz1.html">
+    <resource identifier="res4" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/paginaz1.html">
       <file href="paginaz1.html"/>
     </resource>
-    <resource identifier="res5" type="webcontent" adlcp:scormtype="sco" href="paginax1.html">
+    <resource identifier="res5" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/paginax1.html">
       <file href="paginax1.html"/>
     </resource>
-    <resource identifier="res6" type="webcontent" adlcp:scormtype="sco" href="sobre_autora.html">
+    <resource identifier="res6" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/sobre_autora.html">
       <file href="sobre_autora.html"/>
     </resource>
-    <resource identifier="res7" type="webcontent" adlcp:scormtype="sco" href="biblioteca_de_recursos_.html">
+    <resource identifier="res7" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/biblioteca_de_recursos_.html">
       <file href="biblioteca_de_recursos_.html"/>
     </resource>
-    <resource identifier="res8" type="webcontent" adlcp:scormtype="sco" href="acessibilidade.html">
+    <resource identifier="res8" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/acessibilidade.html">
       <file href="acessibilidade.html"/>
     </resource>
-    <resource identifier="res9" type="webcontent" adlcp:scormtype="sco" href="creditos.html">
+    <resource identifier="res9" type="webcontent" adlcp:scormtype="sco" href="https://ifsp-saojoaodaboavista.github.io/moodle-scorm/gestao-permanencia-exito/creditos.html">
       <file href="creditos.html"/>
     </resource>
   </resources>
